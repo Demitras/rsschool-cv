@@ -27,7 +27,16 @@ In programming: _I do not have any experience yet_
 
 ### Code example:
 
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
 ### Work experience:
+
+- Real estate
+- Project management
 
 ### Education and courses:
 
