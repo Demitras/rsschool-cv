@@ -70,3 +70,18 @@ html {
         width: 100%;
     }
 }
+
+.footer-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.footer-list {
+    list-style: none;
+}
+
+.foot-item {
+    padding: 0 20px;
+    line-height: 50px;
+}
